@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Voca</string>
+    <string name="creep">
+        한 번에 여러 단어 넣기!\n\n
+
+        1. 메모장을 켭니다\n
+        2. "영단어.뜻"형태로 단어를 씁니다.\n
+          \tex)\n
+          \tsutak.바보\n
+          \tchick.천재\n
+          \tyouhi.유하\n
+        3. 내용을 crtl+c/ctrl+v 하여 아래의 입력창에 붙여넣습니다.\n
+        4. 아래의 "추가하기" 버튼을 누릅니다\n
+
+    </string>
+</resources>
